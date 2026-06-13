@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาไทย",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://master.steamhls88.com/filesr2/7d3c1503d4afe4376104eec1cf424f46/audio/audio_0"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
+https://master.steamhls88.com/filesr2/7d3c1503d4afe4376104eec1cf424f46/720/index
